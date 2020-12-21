@@ -2,7 +2,7 @@
 
 
 ## Model Zoo 
-You can download the models with the scores presented in our paper from [Baidu Yun](https://pan.baidu.com/s/1HxJDeGNToggID3Ccjcv7Xg)(Extraction code: 1u4t.)
+The models with the scores presented in our paper will be released on December 25, 2020
 
 ## Acknowledgements
 Note that this code is heavily borrowed from [xMUDA](https://github.com/valeoai/xMUDA) and [ADVENT](https://github.com/valeoai/ADVENT).
